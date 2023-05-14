@@ -2,7 +2,8 @@
 
 Ce workshop vous permettra de vous familiariser avec les tests fonctionnels en Python en utilisant `pytest` ou `nose2`.
 Que vous soyez en tek1 / tek2 / tek3 , n'oubliez pas que les tests meme en python sont acceptés en review sur vos projets en C / autre langage.
-Testez son code ne s'arrete pas à les tester uniquement en C! Chacun son confort de test !
+
+Testez son code ne s'arrete pas à les tester uniquement en C avec criterion ! Chacun son confort de test !
 
 ## Structure du Projet
 
