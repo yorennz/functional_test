@@ -27,7 +27,7 @@ Pour ceux qui ont l'habitude de pytest, voila le bon moment pour essayer nose2 !
 
 ## Comment exécuter les tests
 
-Pour exécuter les tests avec `pytest`, utilisez la commande suivante à la racine du projet :
+Pour exécuter les tests avec `pytest`, utilisez la commande suivante dans le dossier tests :
 
 ```bash
 pytest --cov=../ test_exerciceX.py
